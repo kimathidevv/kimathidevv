@@ -1,6 +1,4 @@
-- 👋 Hi, I'm kimathi.
-I know C#, Lua, and CPP.
--Reach me on discord : kimathi#2150
+I do C++ and some other stuff, discord: kimathi#2150 twitter: twitter.com/kimathidev_
 
 <!---
 kimathidevv/kimathidevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
