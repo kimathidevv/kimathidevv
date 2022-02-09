@@ -1,3 +1,7 @@
-I do stuff, C# and C++.
+Hi, my name is Kimathi. I mainly use C++ and C#,
 
-[Twitter](twittere.com/kimathidev_)
+
+Contact me:
+
+Twitter[twitter.com/kimathidev]
+Discord: kimathi#2150
