@@ -1,9 +1,11 @@
-Hi, my name is Kimathi. I mainly use C++ and C#,
+Hi, I make software.
+
+I'm currently studying game development using UnityEngine, App development using WPF C#, And I'm hoping to get into exploit development too.
+
+Languages I know:
 
 
-Contact me:
-
-
-Twitter: twitter.com/kimathidev_
-
-Discord: kimathi#2150
+-C#
+-C++
+-Python
+-Luau
